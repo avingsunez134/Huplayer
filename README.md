@@ -219,4 +219,4 @@ HUPlayer is available as a complete free version with all features and updates i
 Download HUPlayer today and experience the best in multimedia playback! Enjoy your videos like never before!
 
 ---
-**Last updated:** 2026-09-13 23:04:07 UTC
+**Last updated:** 2026-09-14 04:37:04 UTC
